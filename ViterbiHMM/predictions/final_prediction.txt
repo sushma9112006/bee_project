@@ -1,0 +1,8 @@
+Observed Events:
+('warm', 'tired', 'shiver')
+
+Predicted States:
+['Stable', 'Infected', 'Infected']
+
+Probability Score:
+0.022049999999999993
