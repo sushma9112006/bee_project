@@ -151,7 +151,7 @@ git clone https://github.com/sushma9112006/bee_project
 Move into the repository:
 
 ```bash
-cd bee_projects
+cd bee_project
 ```
 
 ---
