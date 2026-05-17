@@ -145,7 +145,7 @@ Install the following before running the projects:
 Open terminal and run:
 
 ```bash
-git clone <repository_link>
+git clone https://github.com/sushma9112006/bee_project
 ```
 
 Move into the repository:
