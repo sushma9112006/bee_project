@@ -1,6 +1,5 @@
-# BEE_PROJECTS
+# BEE_PROJECT
 
-## Student Information
 
 - **Name:** Jakkula Charita Sai Sushma  
 - **Enrollment Number:** 24114044
@@ -9,15 +8,17 @@
 
 # Project Overview
 
-This repository contains four bioinformatics and computational biology mini-projects implemented using Python.
 
-The projects demonstrate important concepts such as:
+
+The projects consists of concepts such as:
 
 - DNA to protein translation
 - Principal Component Analysis (PCA)
 - Gene Ontology (GO) enrichment analysis
 - Hidden Markov Models (HMM)
 - Viterbi algorithm
+
+  These were implemented using Python.
 
 ---
 
@@ -40,7 +41,7 @@ bee_projects/
 
 ### Description
 
-A bioinformatics project for translating DNA sequences into protein sequences using BioPython.
+A bioinformatics project for translating **DNA sequences into protein sequences** using BioPython.
 
 ### Concepts Covered
 
